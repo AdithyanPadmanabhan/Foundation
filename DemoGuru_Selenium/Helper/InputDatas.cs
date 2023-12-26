@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoGuru_Selenium.Helper
 {
-    internal class InputDatas
+    internal class InputDatas 
     {
 
         public string? Firstname { get; set; }
